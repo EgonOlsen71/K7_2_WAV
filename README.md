@@ -1,4 +1,4 @@
-"""# K7 to 1200 Baud WAV Converter
+# K7 to 1200 Baud WAV Converter
 
 A simple Python utility to convert `.k7` tape image files (used by the **Philips VG5000** home computer and similar systems) into 1200 Baud `.wav` audio files for reliable loading on real hardware.
 
